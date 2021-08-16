@@ -118,7 +118,7 @@ I also write blog about Popular Java Frameworks
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tejasgrd)
 
-Started counting on <b>05/07/2021</b>
+Started counting on <b>04/08/2021</b>
 
 ![Profile views](https://gpvc.arturio.dev/tejasgrd) 
 <!--
