@@ -30,14 +30,6 @@ I also write blog about Popular Java Frameworks
     <a href="https://github.com/hibernate" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
     </a>
-    <a href="https://github.com/quarkusio" target="_blank">
-        <img
-            src="https://camo.githubusercontent.com/e0745b3f2134e3fc0ac25b98b70cce3a2d752f9d20bdcd6c3229668c9ba5d273/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f717561726b75732d69636f6e2e737667"
-            alt="Quarkus"
-            width="50"
-            height="50"
-        />
-    </a>
     <a href="https://groovy-lang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="groovy" width="50" height="50" />
     </a>
