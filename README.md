@@ -18,6 +18,9 @@ I also write blog about Popular Java Frameworks
     <a href="https://www.oracle.com/java/technologies/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/java.svg" alt="java" width="50" height="50" />
     </a>
+    <a href="https://go.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/go.svg" alt="go" width="50" height="50" />
+    </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank">
         <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="Spring Boot" width="50" height="50" />
     </a>
