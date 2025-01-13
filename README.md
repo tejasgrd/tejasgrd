@@ -7,7 +7,7 @@ If I had to define myself in words, that'd be:
 I also write blog about Popular Java Frameworks
 
 
-- I am currently Learning [Quarkus](https://github.com/quarkusio)
+- I am currently learning to build AI agents.
 - I am interested in Backend Design and Development, Microservice architecture, RESTful APIs and Cloud Native technologies, AI Agents
 - 📩 Feel free to reach me at tejasgarde@gmail.com 
 - Visit my tech blog [here](https://tejasgarde.dev/)
